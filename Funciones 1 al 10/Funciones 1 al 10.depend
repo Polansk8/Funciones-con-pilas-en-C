@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\practico 3 funciones\funciones 1 al 10\pila.c
+	"pila.h"
+
+1490112217 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\practico 3 funciones\funciones 1 al 10\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1651584433 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\practico 3 funciones\funciones 1 al 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<time.h>
+	"gotoxy.h"
+
+1491400448 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\practico 3 funciones\funciones 1 al 10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491399894 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\practico 3 funciones\funciones 1 al 10\gotoxy.h
+
