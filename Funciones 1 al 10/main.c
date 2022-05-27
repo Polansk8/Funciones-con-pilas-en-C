@@ -167,21 +167,12 @@ void igualPasaPila (Pila *origen, Pila *destino)
 
 
 
-/** \brief Suma los elementos de una pila
- *
- * \param Una copia de pila
- * \param
- * \return La suma de los elementos
- *
- */
-
 
 
 /// 4)
 /** \brief Busca el menor elemento de una pila y lo retorna
  *
  * \param Un puntero a una pila
- * \param
  * \return El menor elemento
  *
  */
@@ -266,8 +257,7 @@ void insertaElemento (Pila *ordenada, int elemento)
 /** \brief Ordena una pila por insercion
  *
  * \param Puntero a una pila cargada
- * \param
- * \return
+ * \return No return
  *
  */
 void ordenarPilaPorInsercion(Pila *origen,Pila *ordenada)
@@ -316,6 +306,15 @@ int cuentaPila (Pila p)
     return cont;
 }
 
+
+
+
+/** \brief Suma los elementos de una pila
+ *
+ * \param Una copia de pila
+ * \return La suma de los elementos
+ *
+ */
 int sumaPila (Pila p)
 {
     Pila AUX;
